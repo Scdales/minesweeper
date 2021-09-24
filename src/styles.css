@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.square {
+  cursor: pointer;
+  height: 30px;
+  width: 30px;
+  padding: 5px;
+  background-color: #efefef;
+  box-shadow: 0 0 2px 2px #999;
+}
